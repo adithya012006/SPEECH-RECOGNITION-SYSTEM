@@ -56,3 +56,5 @@ In summary, this project illustrates how Vosk and Python can be integrated for e
 
 #output:
 
+![Image](https://github.com/user-attachments/assets/5d598a5e-7f6b-4564-9eb4-687eed73fa0c)
+
